@@ -1,0 +1,12 @@
+depth-to-3D  
+Copyright 2024 Keunmo Koo  
+
+This project is licensed under the Apache License, Version 2.0.  
+See the LICENSE file for more details.  
+
+---
+
+This project includes code from the following open-source projects:  
+
+- Depth-Anything-V2 (https://github.com/DepthAnything/Depth-Anything-V2)  
+  Copyright 2024 Depth-Anything-V2 Contributors  
